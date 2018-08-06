@@ -12,7 +12,7 @@ public class HotelSeptEtoiles implements HotelLuxe
 		System.out.println(h2);
 		System.out.println(h3);
 		System.out.println(h4);
-		
+		System.out.println();
 		System.out.println(getH1());
 		System.out.println(getH2());
 		System.out.println(getH3());
@@ -30,7 +30,7 @@ public class HotelSeptEtoiles implements HotelLuxe
 		System.out.println(t2);
 		System.out.println(t3);
 		System.out.println(t4);
-		
+		System.out.println();
 		System.out.println(getT1());
 		System.out.println(getT2());
 		System.out.println(getT3());
